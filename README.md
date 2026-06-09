@@ -14,7 +14,7 @@ A cybersecurity-focused Python project that checks password strength and generat
 ## Technologies Used
 
 - Python
-- Colorama
+  
 
 ## Installation
 
